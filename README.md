@@ -1,7 +1,7 @@
 # Python-tkinter-calculator
 
 
-https://user-images.githubusercontent.com/40419750/41705277-29414842-7556-11e8-8220-4b063cdadf11.png
+![image](https://user-images.githubusercontent.com/20369800/97130619-ecfce880-1767-11eb-8389-ab0e636492e8.png)
 
 ### Making the layout of the calculator
 
