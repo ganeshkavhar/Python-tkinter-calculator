@@ -144,5 +144,5 @@ class Calculator:
         button_rbrace.pack()
 
 c = Calculator(root)
-root.title("Sushant\'s Calculator")
+root.title("Python Calculator")
 root.mainloop()
